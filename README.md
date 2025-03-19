@@ -26,7 +26,8 @@ This repository contains previous year question papers for **BTech (IT)** studen
 1. **Fork** the repository
 2. **Clone** your forked repository:
    ```sh
-   git clone https://github.com/rajgupta2/MGCGV-Previous-Year-Papers.git
+   git clone https://github.com/your-username/MGCGV-Previous-Year-Papers.git
+   # replace your-username with your github username.
    ```
 3. **Create a new branch** for your contributions:
    ```sh
