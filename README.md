@@ -45,6 +45,14 @@ This repository contains previous year question papers for **BTech (IT)** studen
    ```
 7. **Create a Pull Request** on GitHub for review and merging
 
+## 👥 Contributors  
+
+Thanks to everyone who has contributed to this project!  
+
+<a href="https://github.com/rajgupta2/StudyStudent/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=rajgupta2/StudyStudent" />
+</a>
+
 ## 🤝 Support
 If you find this repository helpful, **star** ⭐ the repo to show your support!
 
